@@ -1,0 +1,14 @@
+#files
+credentials.json
+token.json
+
+#folders
+/audio_files/
+/venv/
+
+#misc
+.DS_Store
+.DS_Store?
+*.pyc
+*~
+._*
